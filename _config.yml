@@ -1,1 +1,7 @@
 theme: jekyll-theme-tactile
+
+locale                   : "en-US"
+title                    : "EMR CLUB"
+title_separator          : "-"
+name                     : "EMR"
+description              : "Embedded Systems and Robotic Club"
